@@ -21,9 +21,9 @@
 - **Associate Software Engineer** at Skal.ai (React.js,Svelte, FastAPI)
 
 ## 📢 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-XYZ-blue?logo=linkedin)](https://www.linkedin.com/in/xyz/)  
-[![GitHub](https://img.shields.io/badge/GitHub-xyz-black?logo=github)](https://github.com/xyz)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xyz&show_icons=true&theme=radical)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-XYZ-blue?logo=linkedin)](https://www.linkedin.com/in/duaa-mansur-bb4a1a201/)  
+[![GitHub](https://img.shields.io/badge/GitHub-xyz-black?logo=github)](https://github.com/duaaMansur)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=duaaMansur&show_icons=true&theme=radical)
 
 
 <!--
