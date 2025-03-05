@@ -18,6 +18,16 @@
 - **Associate Software Engineer** at Skal.ai (React.js,Svelte, FastAPI)
 
 ## 📢 Let's Connect!
+<h3 align="left">📢 Let's Connect!</h3>
+<p align="left">
+    <a href="https://www.linkedin.com/in/duaa-mansur-bb4a1a201/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" />
+    </a>
+    <a href="https://github.com/duaaMansur" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-duaaMansur-black?style=for-the-badge&logo=github" />
+    </a>
+</p>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-duaa-mansur-blue?logo=linkedin)](https://www.linkedin.com/in/duaa-mansur-bb4a1a201/)  
 [![GitHub](https://img.shields.io/badge/GitHub-duaaMansur-black?logo=github)](https://github.com/duaaMansur)  
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=duaaMansur&show_icons=true&theme=radical&cache_seconds=1800)
