@@ -20,10 +20,8 @@
 ## 📢 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-duaa-mansur-blue?logo=linkedin)](https://www.linkedin.com/in/duaa-mansur-bb4a1a201/)  
 [![GitHub](https://img.shields.io/badge/GitHub-duaaMansur-black?logo=github)](https://github.com/duaaMansur)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=duaaMansur&show_icons=true&theme=radical)
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=duaaMansur&show_icons=true&theme=radical&cache_seconds=1800)
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=duaaMansur&show_icons=true&theme=radical)
 
 
 
