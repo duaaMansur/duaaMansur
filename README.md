@@ -3,9 +3,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Hi,%20I'm%20Duaa%20Mansur!&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Data%20Scientist%20%7C%20MERN%20Stack%20Developer%20%7C%20DevOps%20Enthusiast&descAlignY=55&descSize=16"/>
 </div>
 
-<!-- Cute Girl Coding Animation -->
+<!-- Beautiful Girl Robot Animation -->
 <div align="center">
-  <img width="300" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="Cute Girl Coding"/>
+  <img width="350" src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.gif" alt="Beautiful Girl Robot"/>
 </div>
 
 <!-- Animated Typing Text -->
@@ -117,7 +117,7 @@
 <!-- Tech Stack Section with Animations -->
 <div align="center">
   <h2>
-    <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50">
+    <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1-5c385dfa7ed2.gif" width="50">
     Tech Stack
     <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50">
   </h2>
