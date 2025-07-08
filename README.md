@@ -178,7 +178,7 @@
 </div>
 
 <div align="center">
-  <a href="mailto:duaa.mansur@example.com">
+  <a href="mailto:duaamansur.ds.pucit@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://www.linkedin.com/in/duaa-mansur-bb4a1a201/">
