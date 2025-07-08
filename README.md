@@ -3,9 +3,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Hi,%20I'm%20Duaa%20Mansur!&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Data%20Scientist%20%7C%20MERN%20Stack%20Developer%20%7C%20DevOps%20Enthusiast&descAlignY=55&descSize=16"/>
 </div>
 
-<!-- Animated Robot Image -->
+<!-- Cute Girl Coding Animation -->
 <div align="center">
-  <img width="300" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="Coding Robot"/>
+  <img width="300" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="Cute Girl Coding"/>
 </div>
 
 <!-- Animated Typing Text -->
@@ -13,7 +13,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=667eea&center=true&vCenter=true&width=600&lines=Aspiring+Data+Scientist+%7C+MERN+Stack+Dev;DevOps+%26+FastAPI+Enthusiast;Always+Learning+%26+Collaborating;Creating+Impactful+AI+Solutions" alt="Typing SVG" />
 </div>
 
-<!-- About Me Section with Animated Icons -->
+<!-- About Me Section with Enhanced Visuals -->
 <div align="center">
   <h2>
     <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
@@ -22,31 +22,93 @@
   </h2>
 </div>
 
+<!-- Profile Card Style About Me -->
 <div align="center">
   <table>
     <tr>
-      <td>
-        <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
+      <td align="center" width="150">
+        <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="100">
       </td>
-      <td>
+      <td align="left" width="500">
         <strong>
-          Data Science graduate (2025) based in Lahore, Pakistan — passionate about AI, ML, and full-stack development. Currently an Associate Software Engineer at Skal.ai, working with React, Svelte, and FastAPI.
+          💫 Data Science graduate (2025) based in Lahore, Pakistan<br>
+          🚀 Passionate about AI, ML, and full-stack development<br>
+          💼 Currently an Associate Software Engineer at <a href="https://skal.ai/">Skal.ai</a><br>
+          🛠️ Working with React, Svelte, and FastAPI
         </strong>
       </td>
     </tr>
   </table>
 </div>
 
+<!-- Visual Highlights with Icons -->
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="200">
+        <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50"><br>
+        <strong>🎓 Education</strong><br>
+        <sub>Data Science Graduate 2025</sub>
+      </td>
+      <td align="center" width="200">
+        <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="50"><br>
+        <strong>💻 Current Focus</strong><br>
+        <sub>AI/ML & Web Development</sub>
+      </td>
+      <td align="center" width="200">
+        <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="50"><br>
+        <strong>🌍 Location</strong><br>
+        <sub>Lahore, Pakistan</sub>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<!-- What I'm Up To -->
+<div align="center">
+  <h3>
+    <img src="https://user-images.githubusercontent.com/74038190/212749695-67dcbf4d-51dc-4f09-8dee-9b4e03d2f2c4.gif" width="30">
+    What I'm Up To
+    <img src="https://user-images.githubusercontent.com/74038190/212749695-67dcbf4d-51dc-4f09-8dee-9b4e03d2f2c4.gif" width="30">
+  </h3>
+</div>
+
 <!-- Animated Bullet Points with Icons -->
 <div align="center">
-  <p>
-    <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="20"> Aspiring Data Scientist with a 2025 graduation goal<br>
-    <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="20"> Building AI/ML models & scalable web apps<br>
-    <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="20"> Tech stack includes React, FastAPI, TensorFlow, Docker, and more<br>
-    <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="20"> Based in Lahore, Pakistan, and open to collaboration<br>
-    <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="20"> Associate Software Engineer @ <a href="https://skal.ai/">Skal.ai</a><br>
-    <img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd6-b97c-3b5637362c46.gif" width="20"> Always learning and creating impactful solutions
-  </p>
+  <table>
+    <tr>
+      <td align="center" width="50">
+        <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="30">
+      </td>
+      <td align="left">
+        <strong>Building AI/ML models & scalable web applications</strong>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50">
+        <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="30">
+      </td>
+      <td align="left">
+        <strong>Working with React, FastAPI, TensorFlow, Docker, and more</strong>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50">
+        <img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd6-b97c-3b5637362c46.gif" width="30">
+      </td>
+      <td align="left">
+        <strong>Always learning and creating impactful solutions</strong>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50">
+        <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="30">
+      </td>
+      <td align="left">
+        <strong>Open to collaboration on innovative projects</strong>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <!-- Animated Divider -->
