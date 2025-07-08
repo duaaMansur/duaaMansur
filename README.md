@@ -3,9 +3,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Hi,%20I'm%20Duaa%20Mansur!&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Data%20Scientist%20%7C%20MERN%20Stack%20Developer%20%7C%20DevOps%20Enthusiast&descAlignY=55&descSize=16"/>
 </div>
 
-<!-- Beautiful Girl Robot Animation -->
 <div align="center">
-  <img width="350" src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.gif" alt="Beautiful Girl Robot"/>
+  <img width="350" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Girl Developer"/>
 </div>
 
 <!-- Animated Typing Text -->
